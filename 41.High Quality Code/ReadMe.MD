@@ -1,0 +1,1 @@
+In this section, you are going to learn Best practices in writing code High Quality Code, Naming Conventions, Easy to read, easy to maintain, easy to test, design should not be over engineered , well documented, well formatted, loose coupling(a piece of code not depending so much on other pieces of code) and strong cohesion(piece of code doing only one thing)
